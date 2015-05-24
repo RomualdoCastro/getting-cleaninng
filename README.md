@@ -18,6 +18,10 @@ Create one R script called run_analysis.R that does the following.
     Appropriately labels the data set with descriptive variable names. 
     From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
+# Steps  
+
+    Download the data source and put into a folder on your local drive and then put run_analysis.R in the same directory, then set it as your working directory using setwd("xxxxx") function in RStudio.
+    Run source("run_analysis.R"), then it will generate a new file tidyResultdata.txt in your the directory.
 
 
 The three variables that were estimated from these signals are as follows:
