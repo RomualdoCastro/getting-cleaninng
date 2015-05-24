@@ -30,7 +30,7 @@ The three variables that were estimated from these signals are as follows:
     std: Standard deviation
     meanFreq: Weighted average of the frequency components to obtain a mean frequency.
 
-The first two columns ar Trainers and Activity.
+The first two columns are the most important: Trainers and Activity.
 
 Column 1: Trainers
 
